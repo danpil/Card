@@ -1,1 +1,1 @@
-The project for learning
+The project for learning GO language.
